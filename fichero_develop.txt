@@ -1,0 +1,3 @@
+fichero creado en el develop branch de nil
+Esta linea dara conflicto con origin. Dio error, pero ya esta solucionado
+La Berta destrosant coses a la file, es bromi pomi

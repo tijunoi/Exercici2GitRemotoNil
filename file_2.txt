@@ -1,0 +1,2 @@
+Esta linea dara conflicto. Pero la deixare adalt de tot
+Fichero creado en la rama new_feature
